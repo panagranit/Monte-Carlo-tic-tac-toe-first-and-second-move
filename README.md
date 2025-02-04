@@ -4,7 +4,7 @@ A Python implementation of Tic-Tac-Toe that uses Monte Carlo simulation to make 
 
 ## Features
 - Monte Carlo Tree Search (MCTS) for move selection
-- 500 simulated games per decision
+- 5000 simulated games per decision
 - Complete game state validation
 - Optimal move finding for player X
 
